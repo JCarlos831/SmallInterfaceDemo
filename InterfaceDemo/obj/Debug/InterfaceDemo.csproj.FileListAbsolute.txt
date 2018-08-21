@@ -1,0 +1,7 @@
+C:\Users\A-JMontoya\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+C:\Users\A-JMontoya\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+C:\Users\A-JMontoya\source\repos\InterfaceDemo\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+C:\Users\A-JMontoya\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csprojResolveAssemblyReference.cache
+C:\Users\A-JMontoya\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\A-JMontoya\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+C:\Users\A-JMontoya\source\repos\InterfaceDemo\InterfaceDemo\obj\Debug\InterfaceDemo.pdb
